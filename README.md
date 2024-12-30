@@ -1,4 +1,4 @@
-# FILE-HANDLING-UTILITY
+# FILE-HANDLING-UTILITY-TASK 1
 
 Name:SHEETHAL P V
 
@@ -11,6 +11,19 @@ DOMAIN:JAVA PROGRAMMING
 DURATION-NOV 25th ,2024 to JAN 10th ,2025
 
 MENTOR NAME-Neela Santhosh Kumar
+
+###Objectives:
+1 File Management:
+Demonstrate basic file handling in Java by performing operations like reading, writing, and modifying text files.
+2 Reading from Files:
+Read the content of an existing file line by line and print it on the console to ensure that the file is being accessed correctly.
+3 Writing to Files:
+Write new content to a file. The program should overwrite any existing content when writing
+
+###Key Features:
+BufferedReader: Used to read characters from a file efficiently, one line at a time.
+BufferedWriter: Used to write characters to a file efficiently, including the ability to append data by enabling true in the FileWriter constructor.
+FileWriter: A convenient class for writing characters to files.
 
 import java.io.*;
 import java.nio.file.*;
