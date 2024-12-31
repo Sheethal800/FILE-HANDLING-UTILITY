@@ -87,3 +87,6 @@ public class FileOperations {
         }
     }
 }
+#OUTPUT OF THE TASK
+![Sheethal800](https://github.com/user-attachments/assets/3b7c2cbe-205c-4d12-bf43-8337141f069c)
+
